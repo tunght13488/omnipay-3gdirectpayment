@@ -1,0 +1,27 @@
+{
+    "name": "tunght13488/omnipay-3gdirectpayment",
+    "type": "library",
+    "description": "3GDirectPayment gateway for Omnipay payment processing library",
+    "keywords": [
+        "gateway",
+        "merchant",
+        "omnipay",
+        "pay",
+        "payment",
+        "3gdirectpayment",
+        "purchase"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ha The Tung",
+            "email": "tunght13488@gmail.com"
+        }
+    ],
+    "require": {
+        "omnipay/common": "~2.0"
+    },
+    "require-dev": {
+        "omnipay/tests": "~2.0"
+    }
+}
