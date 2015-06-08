@@ -18,6 +18,11 @@
             "email": "tunght13488@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Omnipay\\ThreeGDirectPayment\\": "src/"
+        }
+    },
     "require": {
         "omnipay/common": "~2.0"
     },
